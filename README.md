@@ -19,7 +19,7 @@ root ’welcomes#index’
 rails db:migrate
 ```
 
-# react-railsを使ってwebpackでビルドしたreact fileを呼ぶ。
+# react-railsを使ってwebpackでビルドしたreactファイルを呼ぶ。
 
 ```
 app/views/welcomes/index.html.erbに以下の記述をする
